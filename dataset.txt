@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/danrasband/asl-alphabet-test/data
+code : https://www.kaggle.com/code/zeyadkhalid/sign-language-recognition-97-val-accuracy
+https://www.kaggle.com/datasets/sshikamaru/fruit-recognition
