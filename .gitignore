@@ -2,3 +2,7 @@
 *.zip
 venv/
 *.jpg
+*.h5
+*.png
+dataset/ 
+Train_Test_Valid/
